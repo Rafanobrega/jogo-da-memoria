@@ -1,2 +1,2 @@
 # jogo-da-memoria
-Jogo da memória utilizando html, css e js. 
+jogo completo funcionando perfeitamente e detalhes visuais corrigidos. 
